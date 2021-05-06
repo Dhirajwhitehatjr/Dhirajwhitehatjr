@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    ba
+}
+
+#video {
+    text-align: center;
+}
+
+.marqueeStyle {
+    color: red;
+    font-family: Beloved teacher;
+
+}
+
+.WOW00{
+  height: 500;
+    width: 300;
+     transition: transform .2s;
+    text-align: center;
+    border-radius: 34;
+
+}
+#Campus life {
+    text-align: center;
+}
+WOW2{
+    height: 500;
+    width: 300;
+     transition: transform .2s;
+    text-align: center;
+    border-radius: 34;
+}
+WOW2:hover{
+    transform: scale(0.9s);
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 30px;
+    margin-bottom: 15px;
+    width: 75%;
+    display: inline-block;
+    text-align: center;
+}
+.ayya{
+    font-family: monospace;
+    color: bisque;
+}
+.Acheivment_1{
+     margin-top: 13px;
+}
+.Acheivment_1 img{
+    border-radius: 25px;
+      
+    
+}
+#School Achievments{
+    text-align: center;
+}
+.environment_li{
+    margin-top: 20px;
+}
